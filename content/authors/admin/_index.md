@@ -13,16 +13,16 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Alice
+first_name: Santos
 highlight_name: true
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Linguistics
+- Creative Writing
+last_name: Flores
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Texas Rio Grande Valley
+  url: https://www.utrgv.edu/
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
@@ -39,7 +39,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/roguelike01/Santos-Flores
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -49,8 +49,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Santos Flores
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Santos Flores is a aspiring professor who currently holds a degree in English with a teaching certificate for ELA 7-12. His interests include creative writing in regards to world building, D&D and the narratives that, reading, and  which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
