@@ -1,9 +1,8 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Pros and Cons of e-learning, how gaming can impact the creative writing process, and the scope and depth of AI generated narrative driven story telling. 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in bitches
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
@@ -12,7 +11,7 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+email: "Santos.Flores01s@gmail.com"
 first_name: Santos
 highlight_name: true
 interests:
@@ -23,20 +22,13 @@ last_name: Flores
 organizations:
 - name: University of Texas Rio Grande Valley
   url: https://www.utrgv.edu/
-role: Professor of Artificial Intelligence
+role: BA English
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/roguelike01/Santos-Flores
@@ -52,5 +44,5 @@ superuser: true
 title: Santos Flores
 ---
 
-Santos Flores is a aspiring professor who currently holds a degree in English with a teaching certificate for ELA 7-12. His interests include creative writing in regards to world building, D&D and the narratives that, reading, and  which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Santos Flores is a aspiring professor who currently holds a degree in English with a teaching certificate for ELA 7-12. His interests include creative writing in regards to world building, D&D and the narratives that follows, coding , reading, and fantastical worlds.
 {style="text-align: justify;"}
