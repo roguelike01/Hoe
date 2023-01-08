@@ -1,16 +1,5 @@
 ---
 bio: My research interests include Pros and Cons of e-learning, how gaming can impact the creative writing process, and the scope and depth of AI generated narrative driven story telling. 
-education:
-  courses:
-  - course: PhD in bitches
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: "Santos.Flores01s@gmail.com"
 first_name: Santos
 highlight_name: true
